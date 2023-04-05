@@ -1,0 +1,15 @@
+{
+  "title": "测试ERC721",
+  "description": "Test description",
+  "image": "ipfs://QmWwY7rT2NzyvveaPcXDCCCZcPWExp9C7PedgHQAUEcELX",
+  "attributes": [
+    {
+      "trait_type": "sex",
+      "value": "girl"
+    },
+    {
+      "trait_type": "hair",
+      "value": "black"
+    }
+  ]
+}
